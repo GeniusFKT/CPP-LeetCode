@@ -4,7 +4,6 @@
 using namespace std;
 
 class KMP {
-
 private: 
     string pattern;
     int *next;
